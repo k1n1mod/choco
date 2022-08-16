@@ -10,15 +10,15 @@ code
 > Arbeit Testclients
 
 ```
-choco install 7zip adobereader chromium Firefox greenshot notepadplusplusnotepadplusplus.install  putty putty.portable rufus teamviewer.host vlc -y
+choco install 7zip adobereader chromium Firefox greenshot notepadplusplusnotepadplusplus  putty putty.portable rufus teamviewer.host vlc -y
 ```
 > Arbeit
 
 ```
-choco install 7zip 7zip.install adobereader chocolatey chocolatey-compatibility.extension chocolatey-core.extension chocolatey-windowsupdate.extension chromium Firefox greenshot jabra-direct keepass keepass.install mattermost-desktop nextcloud-client notepadplusplusnotepadplusplus.install openvpn phonerlite phonerlite.install putty putty.portable rufus teamviewer vlc vlc.install vscode vscode.install winmerge wsl-ubuntu-2004  WhatsApp Spotify -y
+choco install 7zip adobereader chromium Firefox greenshot jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplusnotepadplusplus openvpn phonerlite putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify -y
 ```
 
 > Privat
 ```
-choco install 7zip 7zip.install adobereader chromium Firefox greenshot notepadplusplusnotepadplusplus.install putty putty.portable rufus teamviewer vlc vlc.install WhatsApp Spotify -y
+choco install 7zip adobereader chromium Firefox greenshot notepadplusplusnotepadplusplus putty putty.portable rufus teamviewer vlc WhatsApp Spotify -y
 ```
