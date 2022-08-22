@@ -7,12 +7,18 @@
 
 code
 ## List
+> Arbeit Server
+
+```
+choco install 7zip adobereader chromium Firefox greenshot notepadplusplusnotepadplusplus  putty teamviewer.host -y
+```
+
 > Arbeit Testclients
 
 ```
 choco install 7zip adobereader chromium Firefox greenshot notepadplusplusnotepadplusplus  putty putty.portable rufus teamviewer.host vlc -y
 ```
-> Arbeit
+> Arbeit mein Rechner
 
 ```
 choco install 7zip adobereader chromium Firefox greenshot jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplusnotepadplusplus openvpn phonerlite putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify -y
