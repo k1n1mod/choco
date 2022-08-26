@@ -19,7 +19,7 @@ choco install 7zip adobereader chromium Firefox greenshot notepadplusplus  putty
 
 > Arbeit mein Rechner
 ```
-choco install 7zip adobereader chromium Firefox greenshot jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplus openvpn phonerlite putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify --ignore.checksums -y
+choco install 7zip adobereader chromium Firefox greenshot jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplus openvpn phonerlite putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify logitech-options --ignore.checksums -y
 ```
 
 > Privat
