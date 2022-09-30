@@ -9,7 +9,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ## List
 > Arbeit Server
 ```
-choco install 7zip adobereader chromium Firefox greenshot notepadplusplus  putty teamviewer.host --ignore.checksums -y
+choco install 7zip treesizefree adobereader chromium Firefox greenshot notepadplusplus  putty teamviewer.host --ignore.checksums -y
 ```
 
 > Arbeit Testclients
