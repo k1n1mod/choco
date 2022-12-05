@@ -27,9 +27,14 @@ choco install 7zip adobereader angryip chromium Firefox greenshot jabra-direct k
 choco install 7zip adobereader chromium Firefox greenshot notepadplusplus putty putty.portable rufus teamviewer vlc WhatsApp Spotify --ignore.checksums -y
 ```
 
-> List all packages
+> List all packages installed by choco
 ```
 clist -l
+```
+
+> List all packages are installed by choco and are not installed by choco
+```
+clist --local-only --include-programs
 ```
 
 > Export a List of all packages
