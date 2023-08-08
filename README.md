@@ -9,22 +9,22 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ## List
 > Arbeit Server
 ```
-choco install 7zip treesizefree adobereader chromium Firefox greenshot notepadplusplus  putty teamviewer.host --ignore.checksums -y
+choco install 7zip treesizefree adobereader chromium Firefox screenpresso notepadplusplus  putty teamviewer.host --ignore.checksums -y
 ```
 
 > Arbeit Testclients
 ```
-choco install 7zip adobereader chromium Firefox greenshot notepadplusplus  putty putty.portable rufus teamviewer.host vlc --ignore.checksums -y
+choco install 7zip adobereader chromium Firefox screenpresso notepadplusplus  putty putty.portable rufus teamviewer.host vlc --ignore.checksums -y
 ```
 
 > Arbeit mein Rechner
 ```
-choco install 7zip adobereader angryip chromium Firefox greenshot jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplus openvpn zoiper putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify powertoys citrix-workspace notion logitech-options powerbi microsoft-teams --ignore.checksums -y
+choco install 7zip adobereader angryip chromium Firefox screenpresso jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplus openvpn zoiper putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify powertoys citrix-workspace notion logitech-options powerbi microsoft-teams --ignore.checksums -y
 ```
 
 > Privat
 ```
-choco install 7zip adobereader chromium Firefox greenshot notepadplusplus putty putty.portable rufus teamviewer vlc WhatsApp Spotify --ignore.checksums -y
+choco install 7zip adobereader chromium Firefox screenpresso notepadplusplus putty putty.portable rufus teamviewer vlc WhatsApp Spotify --ignore.checksums -y
 ```
 
 > List all packages installed by choco
