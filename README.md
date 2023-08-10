@@ -19,7 +19,7 @@ choco install 7zip adobereader chromium Firefox screenpresso notepadplusplus  pu
 
 > Arbeit mein Rechner
 ```
-choco install 7zip adobereader angryip chromium Firefox screenpresso jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplus openvpn zoiper putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify powertoys citrix-workspace notion logitech-options powerbi microsoft-teams --ignore.checksums -y
+choco install 7zip adobereader angryip chromium Firefox screenpresso jabra-direct keepass mattermost-desktop nextcloud-client notepadplusplus openvpn zoiper putty putty.portable rufus teamviewer vlc vscode winmerge wsl-ubuntu-2004  WhatsApp Spotify powertoys citrix-workspace notion logitech-options powerbi microsoft-teams autohotkey --ignore.checksums -y
 ```
 
 > Privat
